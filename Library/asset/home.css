@@ -1,0 +1,33 @@
+
+.center {
+ background-color:white;
+   
+   margin: auto;
+
+   width: 25%;
+   border: 3px solid rgba(2, 2, 2, 0.938);
+   padding: 5px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 200px;
+   padding-left: 200px;
+   opacity: .7;
+ }
+ body{
+   background-image: url("hi.jpg");
+ }
+ h1{
+   background-color: whitesmoke; text-align: center;
+   font-style: italic ;
+   font-weight: bolder;
+}
+.button {
+   background-color: #B2BEB5; 
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 36px;
+ }
